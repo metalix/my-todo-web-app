@@ -1,0 +1,5 @@
+run
+walk
+talk
+drink
+watch Ted Lasso
